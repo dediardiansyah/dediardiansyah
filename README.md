@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on developing a web frontend with Javascript and CSS
 - 📫 Want to connect? Check out my LinkedIn profile: [Dedi Ardiansyah](https://www.linkedin.com/in/dediardiansyah/)
 
-<!---
-dediardiansyah/dediardiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Playlist Music
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3u9aFVuLoBrDS9PRKgFMkq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
